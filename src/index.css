@@ -1,0 +1,8 @@
+.cards{
+display: flex;
+gap: 23px;
+}
+.pfolio1{
+    display: flex;
+/* gap: 23px; */
+}

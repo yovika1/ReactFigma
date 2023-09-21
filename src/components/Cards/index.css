@@ -1,0 +1,43 @@
+
+.feedbck{
+    margin-top: 250px;
+    /* border: 2px solid blue; */
+}
+.cardBox{
+    margin-top: 10px;
+    display: flex;
+    width: 200vh;
+    height: 200px;
+    flex-direction: column;
+    /* max-width: 334px; */
+    margin-left: 100px;
+    /* overflow: hidden; */
+    border: 1px solid;
+    /* padding: 12px 23px; */
+}
+.cards{
+    display: flex;
+  margin-top: 50px;
+    gap: 46px;
+    /* margin-left: 100px; */
+}
+.rating{
+    display: flex;
+    gap: 13px;
+}
+.user{
+    display: flex;
+}
+.feed{
+    margin-left: 100px;
+    font-size: medium;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+}
+.feed1{
+    margin-top: 20px;
+    font-size: 25px;
+    margin-left: 100px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+}

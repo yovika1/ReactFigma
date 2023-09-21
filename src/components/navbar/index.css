@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* box-shadow: 10px 10px 80px brown; */
+    height: 10vh;
+}
+
+.Nav_opt>ul{
+    display: flex;
+    gap: 82px;
+}  
+
+.Nav_opt>ul>li{
+    list-style-type: none;
+}
+
+.btn{
+    padding: 7px 33px;
+    border: blueviolet 2px solid;
+    background-color: white;
+    color:blueviolet;
+    margin-right: 29px;
+
+}
+.brand_logo{
+    margin-left: 70px;
+}

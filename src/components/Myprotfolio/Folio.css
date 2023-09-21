@@ -1,0 +1,91 @@
+.port{
+    margin-top: 80px;
+    max-width:100vh;
+    max-height: 50vh;
+    font-weight: 600;
+    gap:20px;
+}
+.prtfliotxt{
+    margin-left: 100px;
+    font-size: small;
+    display:flex;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.prtfliotxt1{
+    margin-left: 100px;
+    font-size:35px;
+    margin-top: 20px;
+    font-weight: 600;
+    display: flex;
+    position: relative;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.visitwb{
+    height: 35px;
+    width: 120px;
+    margin-left: 161vh;
+    margin-top: -50px;
+    display: flex;
+    color: white;
+    font-size: smaller;
+    position:absolute;
+    text-align:inherit;
+    gap: 10px;
+    align-items: center;
+    background-color: deeppink;
+}
+.txxt1{
+margin-left: 100px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.prtimg{
+    margin-top: 50px;
+    /* display:flex; */
+    max-width: 380px;
+    max-height: 400px;
+    /* gap: 80px; */
+}
+
+.imgdiv{
+    display: flex;
+    margin-left: 100px;
+    gap: 40px;
+}
+.prtcart{
+    display: flex;
+    flex-direction: column;
+    /* width: 700px; */
+    /* height: 150px; */
+    /* overflow: hidden; */
+    /* border: 1px solid; */
+    gap:6px; 
+    
+    /* padding: 12px 23px; */
+    
+}
+.headng{
+    /* display: inline-block; */
+    font-size: 25px;
+    font-weight: 600;
+}
+.headdesc{
+font-family:'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-weight: 200;
+}
+.arrw{
+height:10px;
+width: 10px;
+margin-left: 88px;
+margin-top: -19px;
+}
+.view{
+    /* border-bottom: 1px solid blue; */
+    font-size: smaller;
+}
+.Ptfolio{
+    display: flex;
+    width: 165vh;
+    gap: 46px;
+    margin-left: 100px;
+}
