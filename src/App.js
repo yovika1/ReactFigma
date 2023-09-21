@@ -17,6 +17,9 @@ function App() {
       <Head/>
       <div className='card1'>
       <Skillcard/>
+      fftgyuhf;'shouldComponentUpdate(nextProps, nextState) 
+      sdgsdg
+      sdgsdgsg 
       </div>
       <Aboutme/>
     <Ptfolio/>
